@@ -1,0 +1,16 @@
+INDIGO_WELCOME_MESSAGE: "Tất cả dành cho việc học tập trực tuyến của bạn"
+INDIGO_PRIMARY_COLOR: "#3b85ff" # cool blue
+
+# Footer links are dictionaries with a "title" and "url"
+# To remove all links, write:
+# INDIGO_FOOTER_NAV_LINKS: []
+# INDIGO_FOOTER_LEGAL_LINKS: []
+INDIGO_FOOTER_NAV_LINKS:
+  - title: "Về chúng tôi"
+    url: "/about"
+  - title: "Liên hệ"
+    url: "/contact"
+INDIGO_FOOTER_LEGAL_LINKS:
+    - title: "Điều khoản sử dụng"
+      url: "/tos"
+
